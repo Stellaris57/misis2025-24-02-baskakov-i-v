@@ -3,5 +3,6 @@
 
 int plus(int a, int b);
 int minus(int a, int b);
+int umnozhenie(int a, int b);
 
 #endif
