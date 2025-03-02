@@ -7,4 +7,5 @@ int main() {
 
     std::cout << "PLUS: " << plus(a, b) << std::endl;
     std::cout << "MINUS: " << minus(a, b) << std::endl;
+    std::cout << "UMNOZHENIE: " << umnozhenie(a, b) << std::endl;
 }
