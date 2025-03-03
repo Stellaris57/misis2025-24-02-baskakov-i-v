@@ -1,3 +1,0 @@
-C:/Users/baska/OneDrive/Документы/GitHub/misis2025-24-02-baskakov-i-v/out/build/x64-Debug/CMakeFiles/MyRes.dir
-C:/Users/baska/OneDrive/Документы/GitHub/misis2025-24-02-baskakov-i-v/out/build/x64-Debug/CMakeFiles/edit_cache.dir
-C:/Users/baska/OneDrive/Документы/GitHub/misis2025-24-02-baskakov-i-v/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
